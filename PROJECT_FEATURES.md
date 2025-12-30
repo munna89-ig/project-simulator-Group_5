@@ -5,5 +5,5 @@ As a Law Enforcement Officer, I want to log in using secure credentials. So that
 
 ## T-2: Security officer login system
 As a Security Officer,I want to log in to my security panel. So that, I can access surveillance tools securely.
-**Status: Implemented T-2
+**Status: Implemented T-2**
 
