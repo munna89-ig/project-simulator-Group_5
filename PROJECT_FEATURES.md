@@ -11,3 +11,6 @@ As a Security Officer,I want to log in to my security panel. So that, I can acce
 As a System Administrator, I want to log in with admin credentials.So that,I can manage system settings securely.
 **STATUS: Implemented T-3**
 
+As an Institution Authority, I want to log in to view reports. So that,I can access analytics securely.
+**Status: Implemented**
+
