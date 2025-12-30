@@ -13,7 +13,7 @@ As a System Administrator, I want to log in with admin credentials.So that,I can
 
 
 
-## T-4: Implemented Authority login system
+## T-4:  Authority login system
 As an Institution Authority, I want to log in to view reports. So that,I can access analytics securely.
 **STATUS: Implemented T-4**
 
